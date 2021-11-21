@@ -1,4 +1,4 @@
-import UIKit
+5import UIKit
 
 // optional types
 var wallet:Float?
